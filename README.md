@@ -3,7 +3,7 @@
 Tema del proyecto: Hibrido.
 ---
 
-# REPORTE DE LABORATORIO 04
+# REPORTE DE LABORATORIO 06
 
 **Curso:** Control de Versiones para Desarrollo Full Stack  
 **Docente:** Ing. Luis Flores
